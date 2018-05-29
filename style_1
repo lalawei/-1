@@ -1,0 +1,29 @@
+
+.title {
+	
+	background-color:gray;
+	
+}
+.infor{
+	clear:left;
+	background:blue;
+	width:100%;
+	height:300px;
+	margin:0px;
+	padding:10px;
+	border:2px solid white;
+}
+div.left
+{
+float:left;
+background:red;
+width:200px;
+
+height:300px;
+}
+div.right
+{
+
+
+
+}
